@@ -1,0 +1,2 @@
+This is the content im using in a file that i would like to stage now using the command "git add example.md" for staging this file or "git add ." for staging any files in this current directory 
+and the command "git status" shows the current repos status which branch we are in and what are the staged files details like that etc
